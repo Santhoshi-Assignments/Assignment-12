@@ -1,0 +1,47 @@
+    body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(to top, #1677ff, #fff); 
+      
+  }
+  
+  .login-container {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  h2 {
+    text-align: center;
+
+  }
+  
+  .form-item {
+    margin-bottom: 16px;
+  }
+  
+  .fa {
+    margin-right: 8px;
+  }
+  
+  .login-container p {
+    text-align: center;
+    margin-top: 16px;
+  }
+
+   
+
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .button-container button {
+    width: 100%; 
+  }
